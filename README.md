@@ -34,6 +34,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
-### External resources
-[Vue logo](https://github.com/vuejs/art) (logo.png) included during project creation `npm init vue@latest`.
